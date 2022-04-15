@@ -1,0 +1,58 @@
+{
+  "name": "Degen Lisa #89",
+  "symbol": "DGL",
+  "description": "Lisa got bored of being stuck on the wall in Paris. She decided to join the degen gang of Solana and wants to give everyone back. Expect to see some airdrops from her in your wallet. Hurry up, there are only 314 of her copies around.",
+  "seller_fee_basis_points": 1000,
+  "image": "89.png",
+  "external_url": "https://degenlisa.surge.sh/",
+  "edition": 89,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gradient_Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Lisa"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blush_Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Ugly_Green"
+    },
+    {
+      "trait_type": "Scarf",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "Flowers_Blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "89.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FwUD7qbAbCjCj2gLmPJ5DsU5QXxVtSwpqtdPxcnZQ4Ai",
+        "share": 100
+      }
+    ]
+  }
+}
